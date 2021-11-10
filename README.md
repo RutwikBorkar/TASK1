@@ -1,8 +1,4 @@
-# TASK1
-# TSFtasks
-task of The Sparks Foundation
-
-NAME: Rutwik Borkar
-THE SPARKS FOUNDATION - GRIP
-DATA ANALYTICS AND BUSINESS INTERNSHIP
-TASK #1 - Prediction using Supervised ML
+Rutwik Borkar
+#Machine Learning September Batch
+#Machine Learning Major Project
+#Sentiment Analysis for Restaurant Reviews
